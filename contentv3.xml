@@ -3,7 +3,7 @@
 <instance xmlns="http://www.exelearning.org/content/v0.3" reference="2" version="0.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://www.exelearning.org/content/v0.3 content.xsd" class="exe.engine.package.Package">
  <dictionary>
   <string role="key" value="_title"></string>
-  <unicode value="ELECCIONES MUNICIPALES EN FUTURA URBIS"></unicode>
+  <unicode value="FUTURA URBIS, UNA MIRADA AL FURURO"></unicode>
   <string role="key" value="idevices"></string>
   <list></list>
   <string role="key" value="_addPagination"></string>
@@ -19,7 +19,8 @@
   <string role="key" value="_contextPlace"></string>
   <unicode value="classroom"></unicode>
   <string role="key" value="_description"></string>
-  <unicode value="REA de la asignatura de Computación y Robótica para 1º de ESO sobre lo que son los microcontroladores y como programarlos"></unicode>
+  <unicode value="
+"></unicode>
   <string role="key" value="_docType"></string>
   <unicode value="HTML5"></unicode>
   <string role="key" value="_exportElp"></string>
@@ -69,7 +70,7 @@
   <string role="key" value="_intendedEndUserRoleType"></string>
   <unicode value="learner"></unicode>
   <string role="key" value="_isChanged"></string>
-  <bool value="0"></bool>
+  <bool value="1"></bool>
   <string role="key" value="_isTemplate"></string>
   <bool value="0"></bool>
   <string role="key" value="_lang"></string>
@@ -85,9 +86,9 @@
   <string role="key" value="_name"></string>
   <unicode value="FUTURE_CITY3"></unicode>
   <string role="key" value="_nextIdeviceId"></string>
-  <int value="737"></int>
+  <int value="739"></int>
   <string role="key" value="_nextNodeId"></string>
-  <int value="159"></int>
+  <int value="161"></int>
   <string role="key" value="_nodeIdDict"></string>
   <dictionary>
    <unicode role="key" value="0"></unicode>
@@ -193,7 +194,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="90233"></int>
+                  <int value="90266"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -207,7 +208,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="608_821_2.1705"></unicode>
+                <unicode value="608_821_2.1706"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -218,7 +219,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="CITY1.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpt2gmgw\\CITY1.png"></string>
+                  <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpcyow31\\CITY1.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="c172c1aa9fa530ca4d43099e63967044"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -247,7 +248,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="1706"></int>
+           <int value="1707"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -412,7 +413,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="90253"></int>
+                     <int value="90287"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -426,7 +427,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="686_662_2.31"></unicode>
+                   <unicode value="686_662_2.32"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="9">
                     <dictionary>
@@ -437,7 +438,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="OIG_(4).jpeg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpt2gmgw\\OIG_(4).jpeg"></string>
+                     <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpcyow31\\OIG_(4).jpeg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="39e3891ba069fa7a085e842cee884213"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -466,7 +467,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="32"></int>
+              <int value="33"></int>
               <string role="key" value="parentNode"></string>
               <reference key="8"></reference>
              </dictionary>
@@ -631,7 +632,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="90228"></int>
+                        <int value="90261"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -645,7 +646,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="733_733_2.5"></unicode>
+                      <unicode value="733_733_2.6"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="13">
                        <dictionary>
@@ -656,7 +657,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="actividades.jpeg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpt2gmgw\\actividades.jpeg"></string>
+                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpcyow31\\actividades.jpeg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="0473fa1da161d69f12c052be1ffc0ffc"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -685,7 +686,7 @@
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="6"></int>
+                 <int value="7"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="12"></reference>
                 </dictionary>
@@ -903,7 +904,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="90232"></int>
+                     <int value="90265"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -917,7 +918,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="644_644_2.201"></unicode>
+                   <unicode value="644_644_2.205"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="17">
                     <dictionary>
@@ -928,7 +929,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="cadetes.jpeg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpt2gmgw\\cadetes.jpeg"></string>
+                     <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpcyow31\\cadetes.jpeg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="1bd042ab002b9a7cb48bfe50814e7e43"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -955,7 +956,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="90235"></int>
+                     <int value="90268"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -969,7 +970,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="644_644_2.202"></unicode>
+                   <unicode value="644_644_2.206"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="18">
                     <dictionary>
@@ -980,7 +981,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="ETICA.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpt2gmgw\\ETICA.png"></string>
+                     <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpcyow31\\ETICA.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="be45f316a77633afdd608338be545e3c"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1007,7 +1008,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="90236"></int>
+                     <int value="90269"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1021,7 +1022,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="644_644_2.203"></unicode>
+                   <unicode value="644_644_2.207"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="19">
                     <dictionary>
@@ -1032,7 +1033,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="etica2.jpeg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpt2gmgw\\etica2.jpeg"></string>
+                     <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpcyow31\\etica2.jpeg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="d397967cbf6a97ef40722bc991dbcbb8"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1059,7 +1060,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="90237"></int>
+                     <int value="90270"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1073,7 +1074,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="644_644_2.204"></unicode>
+                   <unicode value="644_644_2.208"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="20">
                     <dictionary>
@@ -1084,7 +1085,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="ETICA3.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpt2gmgw\\ETICA3.png"></string>
+                     <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpcyow31\\ETICA3.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="7afcf4e1df3d930a2e2f20274cd7f4aa"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1113,7 +1114,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="205"></int>
+              <int value="209"></int>
               <string role="key" value="parentNode"></string>
               <reference key="16"></reference>
              </dictionary>
@@ -1250,7 +1251,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="90258"></int>
+                     <int value="90292"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1264,7 +1265,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="715_715_2.15"></unicode>
+                   <unicode value="715_715_2.16"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="23">
                     <dictionary>
@@ -1275,7 +1276,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="urna.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpt2gmgw\\urna.png"></string>
+                     <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpcyow31\\urna.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="c38067f5726a393f15e2bed3ab6f3b66"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1304,7 +1305,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="16"></int>
+              <int value="17"></int>
               <string role="key" value="parentNode"></string>
               <reference key="16"></reference>
              </dictionary>
@@ -1469,7 +1470,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="90246"></int>
+                     <int value="90279"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1483,7 +1484,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="693_693_2.29"></unicode>
+                   <unicode value="693_693_2.30"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="27">
                     <dictionary>
@@ -1494,7 +1495,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="hombre_-_mujer_1.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpt2gmgw\\hombre_-_mujer_1.png"></string>
+                     <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpcyow31\\hombre_-_mujer_1.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="960cc8a840e8a00091d3b1072dd9ac72"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1523,7 +1524,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="30"></int>
+              <int value="31"></int>
               <string role="key" value="parentNode"></string>
               <reference key="26"></reference>
              </dictionary>
@@ -1692,7 +1693,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="90234"></int>
+                        <int value="90267"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1706,7 +1707,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="694_694_2.31"></unicode>
+                      <unicode value="694_694_2.33"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="31">
                        <dictionary>
@@ -1717,7 +1718,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="Diseno_del_Programa_Electoral_de_Futura_Urbis__usando_un_Procesador_de_Texto.pdf"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpt2gmgw\\Diseno_del_Programa_Electoral_de_Futura_Urbis__usando_un_Procesador_de_Texto.pdf"></string>
+                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpcyow31\\Diseno_del_Programa_Electoral_de_Futura_Urbis__usando_un_Procesador_de_Texto.pdf"></string>
                         <string role="key" value="checksum"></string>
                         <string value="4a96fe91e2dcad8d857b6a81abc40558"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1744,7 +1745,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="90245"></int>
+                        <int value="90278"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1758,7 +1759,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="694_694_2.32"></unicode>
+                      <unicode value="694_694_2.34"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="32">
                        <dictionary>
@@ -1769,7 +1770,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="futuraurbis.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpt2gmgw\\futuraurbis.jpg"></string>
+                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpcyow31\\futuraurbis.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="1fd16e7dea6ae539e31e3616264af87e"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1798,7 +1799,7 @@
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="33"></int>
+                 <int value="35"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="30"></reference>
                 </dictionary>
@@ -2226,7 +2227,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="90227"></int>
+                        <int value="90260"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2240,7 +2241,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="698_698_2.418"></unicode>
+                      <unicode value="698_698_2.439"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="39">
                        <dictionary>
@@ -2251,7 +2252,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                         <string role="key" value="_storageName"></string>
                         <string value="actividad1fc.jpeg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpt2gmgw\\actividad1fc.jpeg"></string>
+                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpcyow31\\actividad1fc.jpeg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="ccdab7185cfda797236e90639a273400"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2278,7 +2279,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="90229"></int>
+                        <int value="90262"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2292,7 +2293,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="698_698_2.419"></unicode>
+                      <unicode value="698_698_2.440"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="40">
                        <dictionary>
@@ -2303,7 +2304,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                         <string role="key" value="_storageName"></string>
                         <string value="Analisis_de_Datos_y_Toma_de_Decisiones_en_Futura_Urbis.pdf"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpt2gmgw\\Analisis_de_Datos_y_Toma_de_Decisiones_en_Futura_Urbis.pdf"></string>
+                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpcyow31\\Analisis_de_Datos_y_Toma_de_Decisiones_en_Futura_Urbis.pdf"></string>
                         <string role="key" value="checksum"></string>
                         <string value="7f297e3f12acbd08eb4819199146fb92"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2330,7 +2331,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="90230"></int>
+                        <int value="90263"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2344,7 +2345,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="698_698_2.420"></unicode>
+                      <unicode value="698_698_2.441"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="41">
                        <dictionary>
@@ -2355,7 +2356,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                         <string role="key" value="_storageName"></string>
                         <string value="Analisis_de_Datos_y_Toma_de_Decisiones_en_Futura_Urbis.pdf"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpt2gmgw\\Analisis_de_Datos_y_Toma_de_Decisiones_en_Futura_Urbis.pdf"></string>
+                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpcyow31\\Analisis_de_Datos_y_Toma_de_Decisiones_en_Futura_Urbis.pdf"></string>
                         <string role="key" value="checksum"></string>
                         <string value="7f297e3f12acbd08eb4819199146fb92"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2382,7 +2383,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="90231"></int>
+                        <int value="90264"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2396,7 +2397,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="698_698_2.421"></unicode>
+                      <unicode value="698_698_2.442"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="42">
                        <dictionary>
@@ -2407,7 +2408,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                         <string role="key" value="_storageName"></string>
                         <string value="bigdata.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpt2gmgw\\bigdata.png"></string>
+                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpcyow31\\bigdata.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="5b39975930b9ed2bf1129148ff1284e1"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2434,7 +2435,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="90238"></int>
+                        <int value="90271"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2448,7 +2449,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="698_698_2.422"></unicode>
+                      <unicode value="698_698_2.443"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="43">
                        <dictionary>
@@ -2459,7 +2460,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                         <string role="key" value="_storageName"></string>
                         <string value="fcac6.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpt2gmgw\\fcac6.png"></string>
+                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpcyow31\\fcac6.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="bf6bdd1bf87b11a2cebd394d574c7e82"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2486,7 +2487,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="90239"></int>
+                        <int value="90272"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2500,7 +2501,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="698_698_2.423"></unicode>
+                      <unicode value="698_698_2.444"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="44">
                        <dictionary>
@@ -2511,7 +2512,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                         <string role="key" value="_storageName"></string>
                         <string value="fcac7.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpt2gmgw\\fcac7.png"></string>
+                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpcyow31\\fcac7.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="9f04273b4019f66ea0c6bd523c16374a"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2538,7 +2539,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="90240"></int>
+                        <int value="90273"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2552,7 +2553,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="698_698_2.424"></unicode>
+                      <unicode value="698_698_2.445"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="45">
                        <dictionary>
@@ -2563,7 +2564,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                         <string role="key" value="_storageName"></string>
                         <string value="fcac9.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpt2gmgw\\fcac9.png"></string>
+                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpcyow31\\fcac9.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="fecb9856b7183ab1c1910785ecbcd057"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2590,7 +2591,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="90241"></int>
+                        <int value="90274"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2604,7 +2605,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="698_698_2.425"></unicode>
+                      <unicode value="698_698_2.446"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="46">
                        <dictionary>
@@ -2615,7 +2616,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                         <string role="key" value="_storageName"></string>
                         <string value="ftact2.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpt2gmgw\\ftact2.jpg"></string>
+                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpcyow31\\ftact2.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="1d91c7a525f699162e40c77eb753e733"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2642,7 +2643,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="90242"></int>
+                        <int value="90275"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2656,7 +2657,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="698_698_2.426"></unicode>
+                      <unicode value="698_698_2.447"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="47">
                        <dictionary>
@@ -2667,7 +2668,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                         <string role="key" value="_storageName"></string>
                         <string value="ftact3.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpt2gmgw\\ftact3.jpg"></string>
+                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpcyow31\\ftact3.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="ec37f9c32eddb2c866cd3b954d781ba6"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2694,7 +2695,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="90243"></int>
+                        <int value="90276"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2708,7 +2709,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="698_698_2.427"></unicode>
+                      <unicode value="698_698_2.448"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="48">
                        <dictionary>
@@ -2719,7 +2720,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                         <string role="key" value="_storageName"></string>
                         <string value="fu11.jpeg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpt2gmgw\\fu11.jpeg"></string>
+                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpcyow31\\fu11.jpeg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="da1b357a39bcd08057aa439fde1ee159"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2746,7 +2747,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="90244"></int>
+                        <int value="90277"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2760,7 +2761,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="698_698_2.428"></unicode>
+                      <unicode value="698_698_2.449"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="49">
                        <dictionary>
@@ -2771,7 +2772,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                         <string role="key" value="_storageName"></string>
                         <string value="fuact4.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpt2gmgw\\fuact4.jpg"></string>
+                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpcyow31\\fuact4.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="754c3a35bb61ac3a39d8544cdd1e6330"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2798,7 +2799,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="90247"></int>
+                        <int value="90280"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2812,7 +2813,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="698_698_2.429"></unicode>
+                      <unicode value="698_698_2.450"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="50">
                        <dictionary>
@@ -2823,7 +2824,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                         <string role="key" value="_storageName"></string>
                         <string value="Impacto_de_la_Tecnologia_de_la_Informacion_en_Futura_Urbis.pdf"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpt2gmgw\\Impacto_de_la_Tecnologia_de_la_Informacion_en_Futura_Urbis.pdf"></string>
+                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpcyow31\\Impacto_de_la_Tecnologia_de_la_Informacion_en_Futura_Urbis.pdf"></string>
                         <string role="key" value="checksum"></string>
                         <string value="c01860267a708cbca7287124524e895d"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2850,7 +2851,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="90248"></int>
+                        <int value="90281"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2864,7 +2865,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="698_698_2.430"></unicode>
+                      <unicode value="698_698_2.451"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="51">
                        <dictionary>
@@ -2875,7 +2876,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                         <string role="key" value="_storageName"></string>
                         <string value="Investigacion_de_Tendencias_Tecnologicas_y_Comparacion_con_el_Pasado_en_Futura_Urbis.pdf"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpt2gmgw\\Investigacion_de_Tendencias_Tecnologicas_y_Comparacion_con_el_Pasado_en_Futura_Urbis.pdf"></string>
+                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpcyow31\\Investigacion_de_Tendencias_Tecnologicas_y_Comparacion_con_el_Pasado_en_Futura_Urbis.pdf"></string>
                         <string role="key" value="checksum"></string>
                         <string value="5f2244cb8c676e97188a381d44bf44fd"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2902,7 +2903,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="90249"></int>
+                        <int value="90282"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2916,7 +2917,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="698_698_2.431"></unicode>
+                      <unicode value="698_698_2.452"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="52">
                        <dictionary>
@@ -2927,7 +2928,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                         <string role="key" value="_storageName"></string>
                         <string value="Investigacion_de_Tendencias_Tecnologicas_y_Comparacion_con_el_Pasado_en_Futura_Urbis.pdf"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpt2gmgw\\Investigacion_de_Tendencias_Tecnologicas_y_Comparacion_con_el_Pasado_en_Futura_Urbis.pdf"></string>
+                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpcyow31\\Investigacion_de_Tendencias_Tecnologicas_y_Comparacion_con_el_Pasado_en_Futura_Urbis.pdf"></string>
                         <string role="key" value="checksum"></string>
                         <string value="5f2244cb8c676e97188a381d44bf44fd"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2954,7 +2955,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="90250"></int>
+                        <int value="90283"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2968,7 +2969,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="698_698_2.432"></unicode>
+                      <unicode value="698_698_2.453"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="53">
                        <dictionary>
@@ -2979,7 +2980,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                         <string role="key" value="_storageName"></string>
                         <string value="Investigacion_y_Planificacion_de_Carreras.pdf"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpt2gmgw\\Investigacion_y_Planificacion_de_Carreras.pdf"></string>
+                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpcyow31\\Investigacion_y_Planificacion_de_Carreras.pdf"></string>
                         <string role="key" value="checksum"></string>
                         <string value="6fe8f8fd5bfdc9d97582be23beb684c8"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3006,7 +3007,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="90251"></int>
+                        <int value="90284"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -3020,7 +3021,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="698_698_2.433"></unicode>
+                      <unicode value="698_698_2.454"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="54">
                        <dictionary>
@@ -3031,7 +3032,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                         <string role="key" value="_storageName"></string>
                         <string value="Investigacion_y_Propuestas_de_Implementacion_de_Tecnologias_Emergentes.pdf"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpt2gmgw\\Investigacion_y_Propuestas_de_Implementacion_de_Tecnologias_Emergentes.pdf"></string>
+                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpcyow31\\Investigacion_y_Propuestas_de_Implementacion_de_Tecnologias_Emergentes.pdf"></string>
                         <string role="key" value="checksum"></string>
                         <string value="2221867075922079bd4ff6a16d93599d"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3058,7 +3059,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="90252"></int>
+                        <int value="90286"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -3072,7 +3073,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="698_698_2.434"></unicode>
+                      <unicode value="698_698_2.455"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="55">
                        <dictionary>
@@ -3083,7 +3084,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                         <string role="key" value="_storageName"></string>
                         <string value="La_Era_Digital_Imagenes_Audio_y_Video_en_Futura_Urbis.pdf"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpt2gmgw\\La_Era_Digital_Imagenes_Audio_y_Video_en_Futura_Urbis.pdf"></string>
+                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpcyow31\\La_Era_Digital_Imagenes_Audio_y_Video_en_Futura_Urbis.pdf"></string>
                         <string role="key" value="checksum"></string>
                         <string value="55db89dddb7b6c00538c55ceb26fa716"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3110,7 +3111,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="90254"></int>
+                        <int value="90288"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -3124,7 +3125,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="698_698_2.435"></unicode>
+                      <unicode value="698_698_2.456"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="56">
                        <dictionary>
@@ -3135,7 +3136,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                         <string role="key" value="_storageName"></string>
                         <string value="Presentacion_sobre_el_Impacto_de_la_Tecnologia_de_la_Informacion.pdf"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpt2gmgw\\Presentacion_sobre_el_Impacto_de_la_Tecnologia_de_la_Informacion.pdf"></string>
+                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpcyow31\\Presentacion_sobre_el_Impacto_de_la_Tecnologia_de_la_Informacion.pdf"></string>
                         <string role="key" value="checksum"></string>
                         <string value="d6e8d80c2d319158c29e6f5c17e0c3e3"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3162,7 +3163,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="90255"></int>
+                        <int value="90289"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -3176,7 +3177,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="698_698_2.436"></unicode>
+                      <unicode value="698_698_2.457"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="57">
                        <dictionary>
@@ -3187,7 +3188,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                         <string role="key" value="_storageName"></string>
                         <string value="Representacion_y_Almacenamiento_Digital_en_Futura_Urbis.pdf"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpt2gmgw\\Representacion_y_Almacenamiento_Digital_en_Futura_Urbis.pdf"></string>
+                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpcyow31\\Representacion_y_Almacenamiento_Digital_en_Futura_Urbis.pdf"></string>
                         <string role="key" value="checksum"></string>
                         <string value="d76e4527c936d174d6945ae7daf9e9de"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3214,7 +3215,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="90256"></int>
+                        <int value="90290"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -3228,7 +3229,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="698_698_2.437"></unicode>
+                      <unicode value="698_698_2.458"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="58">
                        <dictionary>
@@ -3239,7 +3240,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                         <string role="key" value="_storageName"></string>
                         <string value="Representacion_y_Almacenamiento_Digital_en_Futura_Urbis.pdf"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpt2gmgw\\Representacion_y_Almacenamiento_Digital_en_Futura_Urbis.pdf"></string>
+                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpcyow31\\Representacion_y_Almacenamiento_Digital_en_Futura_Urbis.pdf"></string>
                         <string role="key" value="checksum"></string>
                         <string value="d76e4527c936d174d6945ae7daf9e9de"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3266,7 +3267,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="90257"></int>
+                        <int value="90291"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -3280,7 +3281,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="698_698_2.438"></unicode>
+                      <unicode value="698_698_2.459"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="59">
                        <dictionary>
@@ -3291,7 +3292,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                         <string role="key" value="_storageName"></string>
                         <string value="Tecnologia_de_la_Informacion_para_la_Sostenibilidad_Ambiental_en_Futura_Urbis.pdf"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpt2gmgw\\Tecnologia_de_la_Informacion_para_la_Sostenibilidad_Ambiental_en_Futura_Urbis.pdf"></string>
+                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpcyow31\\Tecnologia_de_la_Informacion_para_la_Sostenibilidad_Ambiental_en_Futura_Urbis.pdf"></string>
                         <string role="key" value="checksum"></string>
                         <string value="87011d7a5cef88486b751ac9292d6e6d"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3320,7 +3321,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="439"></int>
+                 <int value="460"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="38"></reference>
                 </dictionary>
@@ -3865,10 +3866,665 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
       <instance class="exe.engine.node.Node" reference="73">
        <dictionary>
         <string role="key" value="_title"></string>
-        <unicode value="4. Sacamos conclusiones"></unicode>
+        <unicode value="4. El Compromiso Tecnológico de Futura Urbis: Planificación y Acción"></unicode>
         <string role="key" value="idevices"></string>
         <list>
          <instance class="exe.engine.jsidevice.JsIdevice" reference="71">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value=""></unicode>
+           <string role="key" value="_attributes"></string>
+           <list>
+            <tuple>
+             <string value="title"></string>
+             <list>
+              <string value="Title"></string>
+              <int value="0"></int>
+              <int value="0"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="category"></string>
+             <list>
+              <string value="Category"></string>
+              <int value="0"></int>
+              <int value="1"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="css-class"></string>
+             <list>
+              <string value="CSS class"></string>
+              <int value="0"></int>
+              <int value="2"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="icon"></string>
+             <list>
+              <string value="Icon"></string>
+              <int value="0"></int>
+              <int value="3"></int>
+             </list>
+            </tuple>
+           </list>
+           <string role="key" value="_author"></string>
+           <string value=""></string>
+           <string role="key" value="_iDeviceDir"></string>
+           <string value="udl-content"></string>
+           <string role="key" value="_purpose"></string>
+           <string value=""></string>
+           <string role="key" value="_tip"></string>
+           <string value=""></string>
+           <string role="key" value="_typeName"></string>
+           <unicode value="UDL Content"></unicode>
+           <string role="key" value="_valid"></string>
+           <bool value="1"></bool>
+           <string role="key" value="class_"></string>
+           <unicode value="UDLcontent"></unicode>
+           <string role="key" value="edit"></string>
+           <bool value="0"></bool>
+           <string role="key" value="emphasis"></string>
+           <int value="0"></int>
+           <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+           <int value="1"></int>
+           <string role="key" value="fields"></string>
+           <list>
+            <instance class="exe.engine.field.TextAreaField" reference="72">
+             <dictionary>
+              <string role="key" value="_id"></string>
+              <unicode value="736_2"></unicode>
+              <string role="key" value="_idevice"></string>
+              <reference key="71"></reference>
+              <string role="key" value="_instruc"></string>
+              <string value=""></string>
+              <string role="key" value="_name"></string>
+              <string value=""></string>
+              <string role="key" value="anchor_names"></string>
+              <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
+              <string role="key" value="content_w_resourcePaths"></string>
+              <unicode content="true" value="&lt;div class=&quot;exe-udlContent exe-udlContent-engagement&quot;&gt;&lt;section class=&quot;exe-udlContent-block&quot;&gt;&lt;div class=&quot;exe-udlContent-content&quot;&gt;&lt;div class=&quot;exe-udlContent-content-main&quot;&gt;&lt;figure class=&quot;exe-figure exe-image float-right license-custom&quot; style=&quot;width: 300px;&quot;&gt;&lt;img src=&quot;resources/lanning_and_action._The_scene_shows_a_diverse_group_of_individuals,_dressed_as_city_council__(2).png&quot; width=&quot;500&quot; height=&quot;333&quot; style=&quot;float: right;&quot;&gt;
+&lt;figcaption class=&quot;figcaption&quot;&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Tras las elecciones en Futura Urbis, los estudiantes, en roles de concejales y alcalde, enfrentan el reto de implementar una actualización tecnológica significativa en la ciudad.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Con un nuevo mandato y altas expectativas ciudadanas, deben seleccionar y configurar equipos informáticos y sistemas operativos que no solo cumplan con las necesidades actuales, sino que también promuevan la sostenibilidad, eficiencia y accesibilidad.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Su liderazgo y decisiones serán clave para transformar Futura Urbis en una ciudad inteligente y progresista, manteniendo un equilibrio entre innovación y practicidad, y marcando el rumbo para una gestión urbana moderna y efectiva.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;br style=&quot;clear: both;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;/div&gt;"></unicode>
+              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+              <int value="4"></int>
+              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+              <int value="3"></int>
+              <string role="key" value="htmlTag"></string>
+              <string value="div"></string>
+              <string role="key" value="images"></string>
+              <instance class="exe.engine.galleryidevice.GalleryImages">
+               <dictionary>
+                <string role="key" value=".listitems"></string>
+                <list>
+                 <instance class="exe.engine.galleryidevice.GalleryImage">
+                  <dictionary>
+                   <string role="key" value="_caption"></string>
+                   <instance class="exe.engine.field.TextField">
+                    <dictionary>
+                     <string role="key" value="_id"></string>
+                     <int value="90285"></int>
+                     <string role="key" value="_idevice"></string>
+                     <none></none>
+                     <string role="key" value="_instruc"></string>
+                     <string value=""></string>
+                     <string role="key" value="_name"></string>
+                     <string value=""></string>
+                     <string role="key" value="content"></string>
+                     <string value=""></string>
+                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                     <int value="4"></int>
+                    </dictionary>
+                   </instance>
+                   <string role="key" value="_id"></string>
+                   <unicode value="737_736_2.1"></unicode>
+                   <string role="key" value="_imageResource"></string>
+                   <instance class="exe.engine.resource.Resource" reference="74">
+                    <dictionary>
+                     <string role="key" value="_idevice"></string>
+                     <reference key="71"></reference>
+                     <string role="key" value="_package"></string>
+                     <reference key="2"></reference>
+                     <string role="key" value="_storageName"></string>
+                     <string value="lanning_and_action._The_scene_shows_a_diverse_group_of_individuals,_dressed_as_city_council__(2).png"></string>
+                     <string role="key" value="_userName"></string>
+                     <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpcyow31\\lanning_and_action._The_scene_shows_a_diverse_group_of_individuals,_dressed_as_city_council__(2).png"></string>
+                     <string role="key" value="checksum"></string>
+                     <string value="fde2a7b52394b4c96cd8a5c98a04570c"></string>
+                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                     <int value="2"></int>
+                     <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                     <int value="2"></int>
+                     <string role="key" value="warningMsg"></string>
+                     <string value=""></string>
+                    </dictionary>
+                   </instance>
+                   <string role="key" value="_parent"></string>
+                   <reference key="72"></reference>
+                   <string role="key" value="_thumbnailResource"></string>
+                   <none></none>
+                   <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                   <int value="3"></int>
+                   <string role="key" value="makeThumbnail"></string>
+                   <bool value="0"></bool>
+                  </dictionary>
+                 </instance>
+                </list>
+                <string role="key" value="idevice"></string>
+                <reference key="72"></reference>
+               </dictionary>
+              </instance>
+              <string role="key" value="intlinks_to_anchors"></string>
+              <dictionary></dictionary>
+              <string role="key" value="nextImageId"></string>
+              <int value="2"></int>
+              <string role="key" value="parentNode"></string>
+              <reference key="73"></reference>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="icon"></string>
+           <unicode value=""></unicode>
+           <string role="key" value="id"></string>
+           <unicode value="737"></unicode>
+           <string role="key" value="ideviceCategory"></string>
+           <unicode value="Text and Tasks"></unicode>
+           <string role="key" value="lastIdevice"></string>
+           <bool value="0"></bool>
+           <string role="key" value="nextFieldId"></string>
+           <int value="3"></int>
+           <string role="key" value="originalicon"></string>
+           <string value=""></string>
+           <string role="key" value="parentNode"></string>
+           <reference key="73"></reference>
+           <string role="key" value="systemResources"></string>
+           <list></list>
+           <string role="key" value="undo"></string>
+           <bool value="1"></bool>
+           <string role="key" value="userResources"></string>
+           <list>
+            <reference key="74"></reference>
+           </list>
+           <string role="key" value="version"></string>
+           <int value="0"></int>
+          </dictionary>
+         </instance>
+        </list>
+        <string role="key" value="_id"></string>
+        <unicode value="159"></unicode>
+        <string role="key" value="_package"></string>
+        <reference key="2"></reference>
+        <string role="key" value="anchor_fields"></string>
+        <list></list>
+        <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+        <int value="2"></int>
+        <string role="key" value="exportType"></string>
+        <string value="website"></string>
+        <string role="key" value="last_full_node_path"></string>
+        <string value="exe-node:LA%20CIUDAD%20DEL%20FUTURO:4.%20El%20Compromiso%20Tecnol%C3%B3gico%20de%20Futura%20Urbis%3A%20Planificaci%C3%B3n%20y%20Acci%C3%B3n"></string>
+        <string role="key" value="parent"></string>
+        <reference key="4"></reference>
+        <string role="key" value="top_anchors_linked_from_fields"></string>
+        <list></list>
+        <string role="key" value="children"></string>
+        <list>
+         <instance class="exe.engine.node.Node" reference="77">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="4.1. Diseño de un Sistema Informático Municipal"></unicode>
+           <string role="key" value="idevices"></string>
+           <list>
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="75">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="_attributes"></string>
+              <list>
+               <tuple>
+                <string value="title"></string>
+                <list>
+                 <string value="Title"></string>
+                 <int value="0"></int>
+                 <int value="0"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="category"></string>
+                <list>
+                 <string value="Category"></string>
+                 <int value="0"></int>
+                 <int value="1"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="css-class"></string>
+                <list>
+                 <string value="CSS class"></string>
+                 <int value="0"></int>
+                 <int value="2"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="icon"></string>
+                <list>
+                 <string value="Icon"></string>
+                 <int value="0"></int>
+                 <int value="3"></int>
+                </list>
+               </tuple>
+              </list>
+              <string role="key" value="_author"></string>
+              <string value=""></string>
+              <string role="key" value="_iDeviceDir"></string>
+              <string value="udl-content"></string>
+              <string role="key" value="_purpose"></string>
+              <string value=""></string>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="_typeName"></string>
+              <unicode value="UDL Content"></unicode>
+              <string role="key" value="_valid"></string>
+              <bool value="1"></bool>
+              <string role="key" value="class_"></string>
+              <unicode value="UDLcontent"></unicode>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="0"></int>
+              <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+              <int value="1"></int>
+              <string role="key" value="fields"></string>
+              <list>
+               <instance class="exe.engine.field.TextAreaField" reference="76">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <unicode value="738_2"></unicode>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="75"></reference>
+                 <string role="key" value="_instruc"></string>
+                 <string value=""></string>
+                 <string role="key" value="_name"></string>
+                 <string value=""></string>
+                 <string role="key" value="anchor_names"></string>
+                 <list></list>
+                 <string role="key" value="content_w_resourcePaths"></string>
+                 <unicode content="true" value="&lt;div class=&quot;exe-udlContent exe-udlContent-engagement&quot;&gt;&lt;section class=&quot;exe-udlContent-block&quot;&gt;&lt;div class=&quot;exe-udlContent-content&quot;&gt;&lt;div class=&quot;exe-udlContent-content-main&quot;&gt;&lt;h2&gt;&lt;/h2&gt;
+&lt;div class=&quot;exe-fx exe-paginated&quot;&gt;
+&lt;h2&gt;Diseño de un Sistema Informático Municipal&lt;/h2&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;En esta actividad, los estudiantes desempeñarán roles clave en la modernización tecnológica de Futura Urbis, planificando la adquisición de equipos informáticos con un enfoque en presupuesto, sostenibilidad y eficiencia energética.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Realizarán un análisis comparativo entre sistemas operativos propietarios y libres para diferentes departamentos de la ciudad, considerando su idoneidad en cada contexto.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Además, explorarán la Ley de Moore para anticipar y planificar las tendencias tecnológicas futuras en la ciudad, integrando estos conocimientos en su estrategia de desarrollo sostenible.&lt;/p&gt;
+Para ello prepararan una presentación para la próxima reunión del ayuntamiento según la siguiente &lt;a href=&quot;resources/Diseno_de_un_Sistema_Informatico_Municipal_I.pdf&quot;&gt;g&lt;/a&gt;&lt;span style=&quot;text-align: justify; font-size: 1.05em;&quot;&gt;&lt;a href=&quot;resources/Diseno_de_un_Sistema_Informatico_Municipal_I.pdf&quot;&gt;uía&lt;/a&gt; de trabajo.&lt;/span&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;¡Recuerda!&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Precisión de la información&lt;/li&gt;
+&lt;li&gt;Claridad en la información&lt;/li&gt;
+&lt;li&gt;Creatividad en el diseño&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&quot;exe-figure exe-image position-center license-CC-BY&quot; style=&quot;width: 400px;&quot;&gt;&lt;img src=&quot;resources/are_actively_engaged_in_planning_the_technological_modernization_of_the_city._The_scene_shows_st.png&quot; alt=&quot;&quot; width=&quot;400&quot; height=&quot;400&quot;&gt;&lt;/figure&gt;
+&lt;h2&gt;Elección del Sistema Operativo para Futura Urbis&lt;/h2&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;En una reunión clave del consejo de Futura Urbis, miembros del consejo y expertos en TIC se reúnen para seleccionar el sistema operativo más adecuado para la ciudad, considerando opciones como Linux, Windows, MacOS y Android.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;La discusión se centra en comprender las características de cada sistema, su idoneidad para aplicaciones específicas de la ciudad, y la evaluación del software libre y propietario para ofimática, imágenes y videos. Un aspecto fundamental es el análisis del impacto ético, económico y operativo de cada elección.&lt;/p&gt;
+&lt;p&gt;Preparad una presentación para la próxima reunión del ayuntamiento, para ello sigue la siguiente &lt;a href=&quot;resources/Diseno_de_un_Sistema_Informatico_Municipal_II.pdf&quot;&gt;guía&lt;/a&gt;&amp;nbsp;de trabajo.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;resources/_the_best_operating_system_for_the_city._The_scene_shows_a_diverse_group_of_individuals,_includi.png&quot; alt=&quot;&quot; width=&quot;400&quot; height=&quot;400&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;
+&lt;figure class=&quot;exe-figure exe-image position-center license-CC-BY-NC-ND&quot; style=&quot;width: 400px; text-align: center;&quot;&gt;&lt;/figure&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;/div&gt;"></unicode>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                 <int value="3"></int>
+                 <string role="key" value="htmlTag"></string>
+                 <string value="div"></string>
+                 <string role="key" value="images"></string>
+                 <instance class="exe.engine.galleryidevice.GalleryImages">
+                  <dictionary>
+                   <string role="key" value=".listitems"></string>
+                   <list>
+                    <instance class="exe.engine.galleryidevice.GalleryImage">
+                     <dictionary>
+                      <string role="key" value="_caption"></string>
+                      <instance class="exe.engine.field.TextField">
+                       <dictionary>
+                        <string role="key" value="_id"></string>
+                        <int value="90293"></int>
+                        <string role="key" value="_idevice"></string>
+                        <none></none>
+                        <string role="key" value="_instruc"></string>
+                        <string value=""></string>
+                        <string role="key" value="_name"></string>
+                        <string value=""></string>
+                        <string role="key" value="content"></string>
+                        <string value=""></string>
+                        <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                        <int value="4"></int>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_id"></string>
+                      <unicode value="738_738_2.0"></unicode>
+                      <string role="key" value="_imageResource"></string>
+                      <instance class="exe.engine.resource.Resource" reference="78">
+                       <dictionary>
+                        <string role="key" value="_idevice"></string>
+                        <reference key="75"></reference>
+                        <string role="key" value="_package"></string>
+                        <reference key="2"></reference>
+                        <string role="key" value="_storageName"></string>
+                        <string value="are_actively_engaged_in_planning_the_technological_modernization_of_the_city._The_scene_shows_st.png"></string>
+                        <string role="key" value="_userName"></string>
+                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpdatdxr.eXe\\previews\\allyourbase\\are_actively_engaged_in_planning_the_technological_modernization_of_the_city._The_scene_shows_st.png"></string>
+                        <string role="key" value="checksum"></string>
+                        <string value="38c982774357239b99a6ede091dc1ab5"></string>
+                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="warningMsg"></string>
+                        <string value=""></string>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_parent"></string>
+                      <reference key="76"></reference>
+                      <string role="key" value="_thumbnailResource"></string>
+                      <none></none>
+                      <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                      <int value="3"></int>
+                      <string role="key" value="makeThumbnail"></string>
+                      <bool value="0"></bool>
+                     </dictionary>
+                    </instance>
+                    <instance class="exe.engine.galleryidevice.GalleryImage">
+                     <dictionary>
+                      <string role="key" value="_caption"></string>
+                      <instance class="exe.engine.field.TextField">
+                       <dictionary>
+                        <string role="key" value="_id"></string>
+                        <int value="90294"></int>
+                        <string role="key" value="_idevice"></string>
+                        <none></none>
+                        <string role="key" value="_instruc"></string>
+                        <string value=""></string>
+                        <string role="key" value="_name"></string>
+                        <string value=""></string>
+                        <string role="key" value="content"></string>
+                        <string value=""></string>
+                        <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                        <int value="4"></int>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_id"></string>
+                      <unicode value="738_738_2.1"></unicode>
+                      <string role="key" value="_imageResource"></string>
+                      <instance class="exe.engine.resource.Resource" reference="79">
+                       <dictionary>
+                        <string role="key" value="_idevice"></string>
+                        <reference key="75"></reference>
+                        <string role="key" value="_package"></string>
+                        <reference key="2"></reference>
+                        <string role="key" value="_storageName"></string>
+                        <string value="_the_best_operating_system_for_the_city._The_scene_shows_a_diverse_group_of_individuals,_includi.png"></string>
+                        <string role="key" value="_userName"></string>
+                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpdatdxr.eXe\\previews\\allyourbase\\_the_best_operating_system_for_the_city._The_scene_shows_a_diverse_group_of_individuals,_includi.png"></string>
+                        <string role="key" value="checksum"></string>
+                        <string value="4fc2af102541cf09038faa9d45c7667b"></string>
+                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="warningMsg"></string>
+                        <string value=""></string>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_parent"></string>
+                      <reference key="76"></reference>
+                      <string role="key" value="_thumbnailResource"></string>
+                      <none></none>
+                      <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                      <int value="3"></int>
+                      <string role="key" value="makeThumbnail"></string>
+                      <bool value="0"></bool>
+                     </dictionary>
+                    </instance>
+                    <instance class="exe.engine.galleryidevice.GalleryImage">
+                     <dictionary>
+                      <string role="key" value="_caption"></string>
+                      <instance class="exe.engine.field.TextField">
+                       <dictionary>
+                        <string role="key" value="_id"></string>
+                        <int value="90295"></int>
+                        <string role="key" value="_idevice"></string>
+                        <none></none>
+                        <string role="key" value="_instruc"></string>
+                        <string value=""></string>
+                        <string role="key" value="_name"></string>
+                        <string value=""></string>
+                        <string role="key" value="content"></string>
+                        <string value=""></string>
+                        <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                        <int value="4"></int>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_id"></string>
+                      <unicode value="738_738_2.2"></unicode>
+                      <string role="key" value="_imageResource"></string>
+                      <instance class="exe.engine.resource.Resource" reference="80">
+                       <dictionary>
+                        <string role="key" value="_idevice"></string>
+                        <reference key="75"></reference>
+                        <string role="key" value="_package"></string>
+                        <reference key="2"></reference>
+                        <string role="key" value="_storageName"></string>
+                        <string value="Diseno_de_un_Sistema_Informatico_Municipal_I.pdf"></string>
+                        <string role="key" value="_userName"></string>
+                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpdatdxr.eXe\\previews\\allyourbase\\Dise\xc3\xb1o_de_un_Sistema_Inform\xc3\xa1tico_Municipal_I.pdf"></string>
+                        <string role="key" value="checksum"></string>
+                        <string value="6d712b1b6c6ab26c2d211262eb025719"></string>
+                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="warningMsg"></string>
+                        <string value=""></string>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_parent"></string>
+                      <reference key="76"></reference>
+                      <string role="key" value="_thumbnailResource"></string>
+                      <none></none>
+                      <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                      <int value="3"></int>
+                      <string role="key" value="makeThumbnail"></string>
+                      <bool value="0"></bool>
+                     </dictionary>
+                    </instance>
+                    <instance class="exe.engine.galleryidevice.GalleryImage">
+                     <dictionary>
+                      <string role="key" value="_caption"></string>
+                      <instance class="exe.engine.field.TextField">
+                       <dictionary>
+                        <string role="key" value="_id"></string>
+                        <int value="90296"></int>
+                        <string role="key" value="_idevice"></string>
+                        <none></none>
+                        <string role="key" value="_instruc"></string>
+                        <string value=""></string>
+                        <string role="key" value="_name"></string>
+                        <string value=""></string>
+                        <string role="key" value="content"></string>
+                        <string value=""></string>
+                        <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                        <int value="4"></int>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_id"></string>
+                      <unicode value="738_738_2.3"></unicode>
+                      <string role="key" value="_imageResource"></string>
+                      <instance class="exe.engine.resource.Resource" reference="81">
+                       <dictionary>
+                        <string role="key" value="_idevice"></string>
+                        <reference key="75"></reference>
+                        <string role="key" value="_package"></string>
+                        <reference key="2"></reference>
+                        <string role="key" value="_storageName"></string>
+                        <string value="Diseno_de_un_Sistema_Informatico_Municipal_I.pdf"></string>
+                        <string role="key" value="_userName"></string>
+                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpdatdxr.eXe\\previews\\allyourbase\\Dise\xc3\xb1o_de_un_Sistema_Inform\xc3\xa1tico_Municipal_I.pdf"></string>
+                        <string role="key" value="checksum"></string>
+                        <string value="6d712b1b6c6ab26c2d211262eb025719"></string>
+                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="warningMsg"></string>
+                        <string value=""></string>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_parent"></string>
+                      <reference key="76"></reference>
+                      <string role="key" value="_thumbnailResource"></string>
+                      <none></none>
+                      <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                      <int value="3"></int>
+                      <string role="key" value="makeThumbnail"></string>
+                      <bool value="0"></bool>
+                     </dictionary>
+                    </instance>
+                    <instance class="exe.engine.galleryidevice.GalleryImage">
+                     <dictionary>
+                      <string role="key" value="_caption"></string>
+                      <instance class="exe.engine.field.TextField">
+                       <dictionary>
+                        <string role="key" value="_id"></string>
+                        <int value="90297"></int>
+                        <string role="key" value="_idevice"></string>
+                        <none></none>
+                        <string role="key" value="_instruc"></string>
+                        <string value=""></string>
+                        <string role="key" value="_name"></string>
+                        <string value=""></string>
+                        <string role="key" value="content"></string>
+                        <string value=""></string>
+                        <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                        <int value="4"></int>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_id"></string>
+                      <unicode value="738_738_2.4"></unicode>
+                      <string role="key" value="_imageResource"></string>
+                      <instance class="exe.engine.resource.Resource" reference="82">
+                       <dictionary>
+                        <string role="key" value="_idevice"></string>
+                        <reference key="75"></reference>
+                        <string role="key" value="_package"></string>
+                        <reference key="2"></reference>
+                        <string role="key" value="_storageName"></string>
+                        <string value="Diseno_de_un_Sistema_Informatico_Municipal_II.pdf"></string>
+                        <string role="key" value="_userName"></string>
+                        <string value="c:\\users\\lurav\\appdata\\local\\temp\\tmpdatdxr.eXe\\previews\\allyourbase\\Dise\xc3\xb1o_de_un_Sistema_Inform\xc3\xa1tico_Municipal_II.pdf"></string>
+                        <string role="key" value="checksum"></string>
+                        <string value="ffca2e4fcf33702d84f8736306003379"></string>
+                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="warningMsg"></string>
+                        <string value=""></string>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_parent"></string>
+                      <reference key="76"></reference>
+                      <string role="key" value="_thumbnailResource"></string>
+                      <none></none>
+                      <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                      <int value="3"></int>
+                      <string role="key" value="makeThumbnail"></string>
+                      <bool value="0"></bool>
+                     </dictionary>
+                    </instance>
+                   </list>
+                   <string role="key" value="idevice"></string>
+                   <reference key="76"></reference>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="intlinks_to_anchors"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="nextImageId"></string>
+                 <int value="5"></int>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="77"></reference>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="icon"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="id"></string>
+              <unicode value="738"></unicode>
+              <string role="key" value="ideviceCategory"></string>
+              <unicode value="Text and Tasks"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="nextFieldId"></string>
+              <int value="3"></int>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
+              <string role="key" value="parentNode"></string>
+              <reference key="77"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list>
+               <reference key="78"></reference>
+               <reference key="79"></reference>
+               <reference key="80"></reference>
+               <reference key="81"></reference>
+               <reference key="82"></reference>
+              </list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="_id"></string>
+           <unicode value="160"></unicode>
+           <string role="key" value="_package"></string>
+           <reference key="2"></reference>
+           <string role="key" value="anchor_fields"></string>
+           <list></list>
+           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+           <int value="2"></int>
+           <string role="key" value="exportType"></string>
+           <string value="website"></string>
+           <string role="key" value="last_full_node_path"></string>
+           <string value="exe-node:LA%20CIUDAD%20DEL%20FUTURO:4.%20El%20Compromiso%20Tecnol%C3%B3gico%20de%20Futura%20Urbis%3A%20Planificaci%C3%B3n%20y%20Acci%C3%B3n:4.1.%20Dise%C3%B1o%20de%20un%20Sistema%20Inform%C3%A1tico%20Municipal"></string>
+           <string role="key" value="parent"></string>
+           <reference key="73"></reference>
+           <string role="key" value="top_anchors_linked_from_fields"></string>
+           <list></list>
+           <string role="key" value="children"></string>
+           <list></list>
+          </dictionary>
+         </instance>
+        </list>
+       </dictionary>
+      </instance>
+      <instance class="exe.engine.node.Node" reference="85">
+       <dictionary>
+        <string role="key" value="_title"></string>
+        <unicode value="5. Sacamos conclusiones"></unicode>
+        <string role="key" value="idevices"></string>
+        <list>
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="83">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value=""></unicode>
@@ -3929,12 +4585,12 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="72">
+            <instance class="exe.engine.field.TextAreaField" reference="84">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="713_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="71"></reference>
+              <reference key="83"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -3971,7 +4627,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
                 <string role="key" value=".listitems"></string>
                 <list></list>
                 <string role="key" value="idevice"></string>
-                <reference key="72"></reference>
+                <reference key="84"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -3979,7 +4635,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="73"></reference>
+              <reference key="85"></reference>
              </dictionary>
             </instance>
            </list>
@@ -3996,7 +4652,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="73"></reference>
+           <reference key="85"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
@@ -4019,7 +4675,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:LA%20CIUDAD%20DEL%20FUTURO:4.%20Sacamos%20conclusiones"></string>
+        <string value="exe-node:LA%20CIUDAD%20DEL%20FUTURO:5.%20Sacamos%20conclusiones"></string>
         <string role="key" value="parent"></string>
         <reference key="4"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -4032,7 +4688,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
     </dictionary>
    </instance>
    <unicode role="key" value="133"></unicode>
-   <reference key="73"></reference>
+   <reference key="85"></reference>
    <unicode role="key" value="139"></unicode>
    <reference key="16"></reference>
    <unicode role="key" value="145"></unicode>
@@ -4045,6 +4701,10 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
    <reference key="38"></reference>
    <unicode role="key" value="157"></unicode>
    <reference key="12"></reference>
+   <unicode role="key" value="159"></unicode>
+   <reference key="73"></reference>
+   <unicode role="key" value="160"></unicode>
+   <reference key="77"></reference>
   </dictionary>
   <string role="key" value="_objectives"></string>
   <unicode value=""></unicode>
@@ -4057,7 +4717,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="38"></reference>
+  <reference key="85"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -4070,7 +4730,8 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
     <string role="key" value="date"></string>
     <unicode value=""></unicode>
     <string role="key" value="description"></string>
-    <unicode value="REA de la asignatura de Computación y Robótica para 1º de ESO sobre lo que son los microcontroladores y como programarlos"></unicode>
+    <unicode value="
+"></unicode>
     <string role="key" value="format"></string>
     <unicode value="Web Site"></unicode>
     <string role="key" value="identifier"></string>
@@ -4088,7 +4749,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
     <string role="key" value="subject"></string>
     <unicode value="Proyecto REA"></unicode>
     <string role="key" value="title"></string>
-    <unicode value="ELECCIONES MUNICIPALES EN FUTURA URBIS"></unicode>
+    <unicode value="FUTURA URBIS, UNA MIRADA AL FURURO"></unicode>
     <string role="key" value="type"></string>
     <unicode value=""></unicode>
    </dictionary>
@@ -4350,7 +5011,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
             <string role="key" value="language"></string>
             <string value="es"></string>
             <string role="key" value="valueOf_"></string>
-            <string value="REA de la asignatura de Computaci\xc3\xb3n y Rob\xc3\xb3tica para 1\xc2\xba de ESO sobre lo que son los microcontroladores y como programarlos"></string>
+            <string value="\n"></string>
            </dictionary>
           </instance>
          </list>
@@ -4409,7 +5070,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
            <string role="key" value="language"></string>
            <string value="es"></string>
            <string role="key" value="valueOf_"></string>
-           <string value="ELECCIONES MUNICIPALES EN FUTURA URBIS"></string>
+           <string value="FUTURA URBIS, UNA MIRADA AL FURURO"></string>
           </dictionary>
          </instance>
         </list>
@@ -4429,7 +5090,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
        <instance class="exe.engine.lom.lomsubs.contributeSub">
         <dictionary>
          <string role="key" value="date"></string>
-         <instance class="exe.engine.lom.lomsubs.dateSub" reference="74">
+         <instance class="exe.engine.lom.lomsubs.dateSub" reference="86">
           <dictionary>
            <string role="key" value="dateTime"></string>
            <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
@@ -4468,7 +5129,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
          </instance>
          <string role="key" value="entity"></string>
          <list>
-          <instance class="exe.engine.lom.lomsubs.entitySub" reference="75">
+          <instance class="exe.engine.lom.lomsubs.entitySub" reference="87">
            <dictionary>
             <string role="key" value="extensiontype_"></string>
             <none></none>
@@ -4483,7 +5144,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="source"></string>
-           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="76">
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="88">
             <dictionary>
              <string role="key" value="extensiontype_"></string>
              <none></none>
@@ -4533,10 +5194,10 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
        <instance class="exe.engine.lom.lomsubs.contributeMetaSub">
         <dictionary>
          <string role="key" value="date"></string>
-         <reference key="74"></reference>
+         <reference key="86"></reference>
          <string role="key" value="entity"></string>
          <list>
-          <reference key="75"></reference>
+          <reference key="87"></reference>
          </list>
          <string role="key" value="role"></string>
          <instance class="exe.engine.lom.lomsubs.roleSub">
@@ -4544,7 +5205,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="source"></string>
-           <reference key="76"></reference>
+           <reference key="88"></reference>
            <string role="key" value="uniqueElementName"></string>
            <string value="role"></string>
            <string role="key" value="value"></string>
@@ -5175,7 +5836,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
             <string role="key" value="language"></string>
             <string value="es"></string>
             <string role="key" value="valueOf_"></string>
-            <string value="REA de la asignatura de Computaci\xc3\xb3n y Rob\xc3\xb3tica para 1\xc2\xba de ESO sobre lo que son los microcontroladores y como programarlos"></string>
+            <string value="\n"></string>
            </dictionary>
           </instance>
          </list>
@@ -5372,7 +6033,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
            <string role="key" value="language"></string>
            <string value="es"></string>
            <string role="key" value="valueOf_"></string>
-           <string value="ELECCIONES MUNICIPALES EN FUTURA URBIS"></string>
+           <string value="FUTURA URBIS, UNA MIRADA AL FURURO"></string>
           </dictionary>
          </instance>
         </list>
@@ -5752,7 +6413,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
        <instance class="exe.engine.lom.lomsubs.contributeSub">
         <dictionary>
          <string role="key" value="date"></string>
-         <instance class="exe.engine.lom.lomsubs.dateSub" reference="77">
+         <instance class="exe.engine.lom.lomsubs.dateSub" reference="89">
           <dictionary>
            <string role="key" value="dateTime"></string>
            <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
@@ -5791,7 +6452,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
          </instance>
          <string role="key" value="entity"></string>
          <list>
-          <instance class="exe.engine.lom.lomsubs.entitySub" reference="78">
+          <instance class="exe.engine.lom.lomsubs.entitySub" reference="90">
            <dictionary>
             <string role="key" value="extensiontype_"></string>
             <none></none>
@@ -5806,7 +6467,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="source"></string>
-           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="79">
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="91">
             <dictionary>
              <string role="key" value="extensiontype_"></string>
              <none></none>
@@ -6089,10 +6750,10 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
        <instance class="exe.engine.lom.lomsubs.contributeMetaSub">
         <dictionary>
          <string role="key" value="date"></string>
-         <reference key="77"></reference>
+         <reference key="89"></reference>
          <string role="key" value="entity"></string>
          <list>
-          <reference key="78"></reference>
+          <reference key="90"></reference>
          </list>
          <string role="key" value="role"></string>
          <instance class="exe.engine.lom.lomsubs.roleSub">
@@ -6100,7 +6761,7 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="source"></string>
-           <reference key="79"></reference>
+           <reference key="91"></reference>
            <string role="key" value="uniqueElementName"></string>
            <string value="role"></string>
            <string role="key" value="value"></string>
@@ -6295,6 +6956,10 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
    <list>
     <reference key="54"></reference>
    </list>
+   <string role="key" value="38c982774357239b99a6ede091dc1ab5"></string>
+   <list>
+    <reference key="78"></reference>
+   </list>
    <string role="key" value="39e3891ba069fa7a085e842cee884213"></string>
    <list>
     <reference key="9"></reference>
@@ -6302,6 +6967,10 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
    <string role="key" value="4a96fe91e2dcad8d857b6a81abc40558"></string>
    <list>
     <reference key="31"></reference>
+   </list>
+   <string role="key" value="4fc2af102541cf09038faa9d45c7667b"></string>
+   <list>
+    <reference key="79"></reference>
    </list>
    <string role="key" value="55db89dddb7b6c00538c55ceb26fa716"></string>
    <list>
@@ -6315,6 +6984,11 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
    <list>
     <reference key="51"></reference>
     <reference key="52"></reference>
+   </list>
+   <string role="key" value="6d712b1b6c6ab26c2d211262eb025719"></string>
+   <list>
+    <reference key="80"></reference>
+    <reference key="81"></reference>
    </list>
    <string role="key" value="6fe8f8fd5bfdc9d97582be23beb684c8"></string>
    <list>
@@ -6390,9 +7064,17 @@ Preparad una presentación para la próxima reunión del ayuntamiento, para ello
    <list>
     <reference key="47"></reference>
    </list>
+   <string role="key" value="fde2a7b52394b4c96cd8a5c98a04570c"></string>
+   <list>
+    <reference key="74"></reference>
+   </list>
    <string role="key" value="fecb9856b7183ab1c1910785ecbcd057"></string>
    <list>
     <reference key="45"></reference>
+   </list>
+   <string role="key" value="ffca2e4fcf33702d84f8736306003379"></string>
+   <list>
+    <reference key="82"></reference>
    </list>
   </dictionary>
   <string role="key" value="root"></string>
